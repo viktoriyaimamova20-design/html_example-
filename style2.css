@@ -1,0 +1,68 @@
+<!DOCTYRE html>
+<html>
+<head>
+<style>
+body { 
+    font-size: 24px;
+p.green {
+    color: green
+}
+p.red {
+    color: red
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
+li.green {
+    color: green
+}
+li.red {
+    color: red;
+}
+li.green {
+   color: green;
+}
+p { 
+    color: red;/* Изменяет цвет текста на красный */
+}
+p { 
+    font-weight: bold; /* Полужирный */
+}
+p { 
+    color: green;/* Изменение цвета на зеленый */
+}
+p { 
+    color: blue;/* Изменение цвета на синий */
+}
+p { 
+    color: yellow;/* Изменение цвета на жолтый */
+}
+body {
+    font-size: 24px;
+}
+span.xxsmall {
+    font-size: 9px;
+}
+span.xsmall {
+    font-size: 10px;
+}
+span.small {
+    font-size: 13px;
+}
+span.medium {
+    font-size: 16px;
+}
+span.large {
+    font-size: 18px;
+}
+span.xlarge {
+    font-size: 24px;
+}
+span.xxlarge {
+    font-size: 48px;
+}
+</style>
+</head>

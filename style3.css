@@ -1,0 +1,40 @@
+<head>
+<style>
+body {
+     font-size: 24px;
+}
+p. blue { 
+  color: blue; 
+}
+p.red {
+  color: red;
+}
+p.italic {
+  font-style: italic;
+}
+p.bold {
+  font-weight: bold;
+}
+li.red {
+   color: red;
+}
+li.blue {
+   color: blue;
+}
+li.magenta {
+   color: magenta;
+}
+.red {
+    color: red;
+}
+ul ol li.red {
+    color: red;
+}
+ul ol li.blue { 
+    color: blue;
+}
+ul ol li.magenta { 
+    color: magenta;
+}
+</style>
+</head>
