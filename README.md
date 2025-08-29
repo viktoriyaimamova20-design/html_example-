@@ -1,1 +1,2 @@
-# html_example-
+# html_example
+Пример простой веб-странцы
